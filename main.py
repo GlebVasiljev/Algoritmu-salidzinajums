@@ -26,8 +26,6 @@ def bubble_sort(arr):
         if not swapped:
             break  # Exit the loop early for better performance
 
-    return arr
-
 def insertion_sort(arr):
     """
     Function to perform insertion sort on a given list.
