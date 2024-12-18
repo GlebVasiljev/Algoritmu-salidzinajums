@@ -1,0 +1,1 @@
+# Algoritmu-salidzinajums
